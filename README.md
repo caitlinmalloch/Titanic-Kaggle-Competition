@@ -1,2 +1,3 @@
 # Titanic-Kaggle-Competition
-Novice code competition on Kaggle using Python
+Python code competition on Kaggle using the Titanic dataset to predict survivor outcomes. 
+Check out the notebook to see my code!
